@@ -1,0 +1,3 @@
+HOW TO REPACK BOOT.IMG:
+
+./mkbootimg --cmdline 'mem=128M console=ttyMSM2,9600n8 androidboot.hardware=qcom console=ttyUSBCONSOLE0 androidboot.console=ttyUSBCONSOLE0' --kernel zImage --ramdisk boot.img-ramdisk.gz -o boot.img
