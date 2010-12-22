@@ -1,1 +1,1 @@
-The prebuilt kernel (zImage + boot.img) is from commit 19d8cec.
+The prebuilt kernel (zImage + boot.img + tun.ko) is from commit 582065d.
